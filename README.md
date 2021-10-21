@@ -30,7 +30,7 @@
 <br/>
 
 ## 📚 - Most used:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonfsousa&langs_count=4&layout=compact&theme=tokyonight)](https://github.com/edsonfsousa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonfsousa&langs_count=4&layout=compact&theme=dracula)](https://github.com/edsonfsousa)
 
 ## 📫 - Connect with me:
 <a href="https://www.linkedin.com/in/edson-fernandes-de-sousa-5528ab201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWjDHGIO6TtWzGKjZhE9qWA%3D%3D" target="_blank">
