@@ -22,8 +22,9 @@
 <div style="display: inline_block; margin-left: 10px;"><br>
   <a href="https://github.com/edsonfsousa">
   <img align="center" alt="PoatgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" heigth="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
+  <img align="center" alt="Git" heigth="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Linux" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Bash" heigth="30" width="45" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg">
   <img align="center" alt="Docker" heigth="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
