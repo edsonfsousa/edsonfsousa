@@ -41,3 +41,5 @@
 ### <h2 align="left">🐍 - SOS Commits</h2>
   
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
+
+<img src='https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif' align="right" width="70">
