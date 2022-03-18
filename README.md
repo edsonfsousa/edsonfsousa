@@ -15,7 +15,7 @@
   <img align="center" alt="Java" heigth="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" heigth="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Python" heigth="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="edsonfsousa" height="190" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1300090_LzUcjYg7.png">
+  <img align="right" alt="edsonfsousa" height="290" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/197705_NM77azlt.png">
 </div>
 <br/>
     
