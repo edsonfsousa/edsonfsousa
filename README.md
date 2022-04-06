@@ -19,7 +19,7 @@
 - 👀 I'm looking to collaborate in everything possible
 - 📫 You can reach me by my email which is: edsonf.sousa0@gmail.com
 
-### 📊 Goals:
+### 📊 My Goals:
 These are my current goals for this year:
 
 - 🧠 Expand my knowledge
@@ -28,14 +28,10 @@ These are my current goals for this year:
 
 - 🚀 Build a stronger career
 
-### 👾 Stack:
+### 👾 My Stack:
 These are some of the technologies and tools I work with:
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vue,java,spring,python,git,docker,kubernetes,linux,bash,postgres,jenkins&perline=7)](https://skills.thijs.gg)
 
 
 ### 📈 My Stats
