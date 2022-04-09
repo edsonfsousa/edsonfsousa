@@ -6,7 +6,7 @@
   DevOps Engineer and Full Stack Developer
 </p>
 
-### 📜 About me:
+### <em>📜 About me:
 
 <p>
   <em>
