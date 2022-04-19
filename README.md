@@ -19,6 +19,8 @@
 - 👀 I'm looking to collaborate in everything possible
 - 📫 You can reach me by my email which is: edsonf.sousa0@gmail.com
 
+<img width="48%" style="size: 50px;" align="right" href="https://discord.com/users/806863891153420288" src="https://lanyard-profile-readme.vercel.app/api/806863891153420288">
+
 ### 📊 My Goals:
 These are my current goals for this year:
 
