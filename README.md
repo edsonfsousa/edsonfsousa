@@ -33,8 +33,7 @@ These are my current goals for this year:
 ### 👾 My Stack:
 These are some of the technologies and tools I work with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vue,java,spring,python,git,docker,kubernetes,linux,bash,postgres,jenkins&perline=7)](https://skills.thijs.gg)
-
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,python,linux,git,js,tailwind,postgres,mysql,docker,bash,vue,nodejs,spring,jenkins,kubernetes,grafana&perline=6)](https://skills.thijs.gg)
 
 ### 📈 My Stats
 
