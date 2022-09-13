@@ -10,11 +10,11 @@
 
 <p>
   <em>
-   DevOps engineer and web developer with knowledge of technologies in the different layers of a project, and experience in infrastructure with on-premises systems,      With a year and a half of career in general. Very committed to the assigned roles and always looking for new experiences and innovative technologies, also excellent    in terms of learning and discipline, also cultivating a great mood. Always applying best practices in development and security.
+   Backend engineer and DevOps engineer with knowledge of technologies in the different layers of a project, and experience in infrastructure with on-premises systems,    With a year and a half of career in general. Very committed to the assigned roles and always looking for new experiences and innovative technologies, also              excellent in terms of learning and discipline, also cultivating a great mood. Always applying best practices in development and security.
   </em>
 </p>
 
-- 🌱 I'm currently learning Kubernetes and React
+- 🌱 I'm currently learning Kubernetes and Go
 - 💞️ <em>I'm interested in technology in general</a>
 - 👀 I'm looking to collaborate in everything possible
 - 📫 You can reach me by my email which is: edsonf.sousa0@gmail.com
@@ -31,7 +31,7 @@ These are my current goals for this year:
 ### 👾 My Stack:
 These are some of the technologies and tools I work with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,python,linux,git,js,tailwind,postgres,mysql,docker,bash,vue,nodejs,spring,jenkins,kubernetes,grafana&perline=6)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,go,linux,git,js,tailwind,postgres,mysql,docker,bash,vue,nodejs,spring,jenkins,kubernetes,grafana&perline=6)](https://skills.thijs.gg)
 
 ### 📈 My Stats
 
