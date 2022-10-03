@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  DevOps Engineer and Full Stack Developer
+  Software engineer and DevOps Engineer
 </p>
 
 ### <em>📜 About me:
