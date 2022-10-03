@@ -10,7 +10,8 @@
 
 <p>
   <em>
-   Backend engineer and DevOps engineer with knowledge of technologies in the different layers of a project, and experience in infrastructure with on-premises systems,    With a year and a half of career in general. Very committed to the assigned roles and always looking for new experiences and innovative technologies, also              excellent in terms of learning and discipline, also cultivating a great mood. Always applying best practices in development and security.
+   Software engineer and DevOps engineer with knowledge of technologies in the different layers of a project, and experience in infrastructure with on-premises            systems, With a year and a half of career in general. Very committed to the assigned roles and always looking for new experiences and innovative technologies,
+   also excellent in terms of learning and discipline, also cultivating a great mood. Always applying best practices in development and security.
   </em>
 </p>
 
