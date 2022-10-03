@@ -27,7 +27,7 @@ These are my current goals for this year:
 
 - 🤝 Contribuite in open-source projects
 
-- 🚀 Build a stronger career
+- 🚀 Build a solid career
 
 ### 👾 My Stack:
 These are some of the technologies and tools I work with:
