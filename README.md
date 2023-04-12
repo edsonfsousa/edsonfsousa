@@ -10,7 +10,7 @@
 
 <p>
   <em>
-   Software engineer and DevOps engineer with knowledge of technologies in the different layers of a project, and experience in infrastructure with on-premises            systems, solid career, built around 2 years. Very committed to the assigned roles and always looking for new experiences and innovative technologies,
+   Software engineer and DevOps engineer with knowledge of technologies in the different layers of a project, and experience in infrastructure with on-premises            systems, solid career. Very committed to the assigned roles and always looking for new experiences and innovative technologies,
    also excellent in terms of learning and discipline, also cultivating a great mood. Always applying best practices in development and security.
   </em>
 </p>
