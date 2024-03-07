@@ -1,5 +1,5 @@
 <h1 align='center'>
-   I'm Edson Fernandes
+   Hi, i'm Edson Fernandes
 </h1>
 
 <p align='center'>
