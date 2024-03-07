@@ -38,7 +38,8 @@ These are some of the technologies and tools I work with:
 
 <a href="https://www.linkedin.com/in/edson-fernandes-de-sousa-5528ab201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWjDHGIO6TtWzGKjZhE9qWA%3D%3D" target="_blank">
 <img align="center" alt="edson-linkedin" heigth="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%">
-
+</a>
+   
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
 
 <img src='https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif' align="right" width="70">
