@@ -1,5 +1,5 @@
 <h1 align='center'>
-   Hello, I'm Edson Fernandes
+   I'm Edson Fernandes
 </h1>
 
 <p align='center'>
@@ -34,13 +34,6 @@ These are some of the technologies and tools I work with:
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,java,go,linux,git,js,tailwind,postgres,mysql,docker,bash,vue,nodejs,spring,jenkins,kubernetes,grafana&perline=6)](https://skills.thijs.gg)
 
-### 📈 My Stats
-
-| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=edsonfsousa&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonfsousa&langs_count=4&hide_border=true&theme=dracula&layout=compact)|
-
-
 ### 📥 Connect with me:
 
 <a href="https://www.linkedin.com/in/edson-fernandes-de-sousa-5528ab201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWjDHGIO6TtWzGKjZhE9qWA%3D%3D" target="_blank">
@@ -53,5 +46,3 @@ These are some of the technologies and tools I work with:
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
 
 <img src='https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif' align="right" width="70">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Passionate+about+technology)](https://git.io/typing-svg)
