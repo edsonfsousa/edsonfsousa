@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Software engineer and DevOps Engineer
+  Software Analyst & DevOps
 </p>
 
 ### <em>📜 About me:
@@ -30,9 +30,19 @@ These are my current goals for this year:
 - 🚀 Build a solid career
 
 ### 👾 My Stack:
-These are some of the technologies and tools I work with:
+These are some of the technologies and tools I have worked with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,go,linux,git,js,tailwind,postgres,mysql,docker,bash,vue,nodejs,spring,jenkins,kubernetes,grafana&perline=6)](https://skills.thijs.gg)
+Frontend Developing:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,vue,html,css,tailwind)](https://skillicons.dev)
+
+Backend Developing:
+
+[![My Skills](https://skillicons.dev/icons?i=idea,regex,java,spring,hibernate,postgres,mysql,mongodb,maven)](https://skillicons.dev)
+
+Infrastructure Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,docker,linux,bash,jenkins,grafana,arch,debian)](https://skillicons.dev)
 
 ### 📥 Connect with me:
 
