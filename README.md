@@ -18,16 +18,6 @@
 - 🌱 I'm currently learning Kubernetes and Go
 - 💞️ <em>I'm interested in technology in general</a>
 - 👀 I'm looking to collaborate in everything possible
-- 📫 You can reach me by my email which is: edsonf.sousa0@gmail.com
-
-### 📊 My Goals:
-These are my current goals for this year:
-
-- 🧠 Expand my knowledge
-
-- 🤝 Contribuite in open-source projects
-
-- 🚀 Build a solid career
 
 ### 👾 My Stack:
 These are some of the technologies and tools I have worked with:
@@ -48,6 +38,10 @@ Infrastructure Tools:
 
 <a href="https://www.linkedin.com/in/edson-fernandes-de-sousa-5528ab201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWjDHGIO6TtWzGKjZhE9qWA%3D%3D" target="_blank">
 <img align="center" alt="edson-linkedin" heigth="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%">
+</a>
+
+<a href="mailto:edsonf.sousa0@gmail.com" target="_blank">
+<img align="center" alt="edson-email" heigth="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" style="max-width:100%">
 </a>
 
 <img src='https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif' align="right" width="70">
