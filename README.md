@@ -38,18 +38,16 @@ Frontend Developing:
 
 Backend Developing:
 
-[![My Skills](https://skillicons.dev/icons?i=idea,regex,java,spring,hibernate,postgres,mysql,mongodb,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,regex,java,spring,kafka,hibernate,postgres,mysql,mongodb,maven)](https://skillicons.dev)
 
 Infrastructure Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,docker,linux,bash,jenkins,grafana,arch,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,docker,linux,bash,jenkins,grafana,arch,ubuntu,debian,azure)](https://skillicons.dev)
 
 ### 📥 Connect with me:
 
 <a href="https://www.linkedin.com/in/edson-fernandes-de-sousa-5528ab201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWjDHGIO6TtWzGKjZhE9qWA%3D%3D" target="_blank">
 <img align="center" alt="edson-linkedin" heigth="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%">
 </a>
-   
-![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
 
 <img src='https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif' align="right" width="70">
