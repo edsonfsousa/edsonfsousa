@@ -10,8 +10,12 @@
 
 <p>
   <em>
-   Software Analyst & DevOps with knowledge of technologies in the different layers of a project, and experience in infrastructure with on-premises            systems. Very committed to the assigned roles and always looking for new experiences and innovative technologies,
-   also excellent in terms of learning and discipline, also cultivating a great mood. Always applying best practices in development and security.
+    I am a Systems Analyst Developer & DevOps passionate about creating innovative solutions and also about teaching, with solid experience in project development, infrastructure, and security. I always apply best practices while maintaining an excellent sense of humor.
+  </em>
+</p>
+<p>
+  <em>
+    When I'm away from the keyboard, I'm exploring new culinary recipes 🍝, playing video games 🎮, weightlifting 💪, and enjoying freedom on two wheels 🏍️. I'm always seeking new adventures and learning opportunities. This relentless pursuit of innovation and knowledge is what drives my passion for software development.
   </em>
 </p>
 
